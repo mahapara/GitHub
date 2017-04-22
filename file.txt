@@ -1,2 +1,3 @@
 file of branch of original one
 file of branch of conflicting one 
+to demo diffmerge hgdfgfhsd
